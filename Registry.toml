@@ -1,0 +1,5 @@
+name = "2024-ICLR-StackedTempering-JuliaRegistry"
+uuid = "464ae573-d9c6-4cd1-b20a-2fb62f418382"
+repo = "git@github.com:2024stacktemperingrbm/2024-ICLR-StackedTempering-JuliaRegistry.git"
+
+[packages]

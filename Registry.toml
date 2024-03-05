@@ -5,4 +5,5 @@ repo = "git@github.com:2024stacktemperingrbm/2024-ICLR-StackedTempering-JuliaReg
 [packages]
 4b4759f1-b06d-4e46-9a15-fec13d1dd0af = { name = "StackedTempering", path = "S/StackedTempering" }
 64a072fb-ee9f-4297-92fa-03899ca5ed3d = { name = "Tail2Front2", path = "T/Tail2Front2" }
+d4206499-9796-4f58-8a56-acae5424fe35 = { name = "ConditionalSwaps", path = "C/ConditionalSwaps" }
 d7583257-2d3b-486d-b93f-702fcfec9f7b = { name = "MetropolisRules", path = "M/MetropolisRules" }
